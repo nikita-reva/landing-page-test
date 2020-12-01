@@ -248,3 +248,13 @@ header .navigation li a {
         background-position: center;
     }
 }
+
+@media (max-width: 550px) {
+    .content .imgBox {
+        width: 400px;
+    }
+
+    .swiper-slide {
+        height: 200px;
+    }
+}
