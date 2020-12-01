@@ -228,6 +228,10 @@ header .navigation li a {
         margin: 20px 0px;
     }
 
+    header .navigation li a {
+        margin-left: 0px;
+    }
+
     .toggle {
         position: relative;
         width: 30px;
