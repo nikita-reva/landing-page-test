@@ -249,9 +249,9 @@ header .navigation li a {
     }
 }
 
-@media (max-width: 550px) {
+@media (max-width: 500px) {
     .content .imgBox {
-        width: 400px;
+        width: 350px;
     }
 
     .swiper-slide {
